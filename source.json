@@ -10,6 +10,14 @@
       "iconURL": "https://raw.githubusercontent.com/D25Studio/dayna-tracker-releases/main/icon.png",
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "4",
+          "date": "2026-11-27T03:27:27Z",
+          "downloadURL": "https://github.com/D25Studio/dayna-tracker-releases/releases/download/v1.1.0-4/DaynasTracker.ipa",
+          "size": 8911275,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "3",
           "date": "2026-11-27T01:51:25Z",
